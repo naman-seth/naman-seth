@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Naman</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />, I'm Naman</h1>
 <h3 align="center">Fresher developer from 🇮🇳</h3>
 
 <p align="left">
